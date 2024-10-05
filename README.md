@@ -1,6 +1,8 @@
 Horoscope App
 HTML5, CSS3, Javascript - Simple Horoscope App that displays a horoscope when a user enters their birthday.
 
+![alt text](css/assets/coverImage.png) 
+
 Link to site: https://simplehoroscopeapp.netlify.app/
 
 How It's Made:
